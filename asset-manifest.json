@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b619e94b.css",
+    "main.js": "/static/js/main.b18cbd9a.js",
+    "static/js/787.024d2888.chunk.js": "/static/js/787.024d2888.chunk.js",
+    "static/media/WeatherappBG.jpg": "/static/media/WeatherappBG.0f5a58b73c2038f39b26.jpg",
+    "static/media/snowH.png": "/static/media/snowH.54633c404c266a91c27e.png",
+    "static/media/snowShowerH.png": "/static/media/snowShowerH.71bd49baf281efe5313e.png",
+    "static/media/rainH.png": "/static/media/rainH.0f44222b53734ba03809.png",
+    "static/media/snowM.png": "/static/media/snowM.e96587bef2695b3e107e.png",
+    "static/media/frezDrizDens.png": "/static/media/frezDrizDens.b2b9a6c9ab1cc169a4c0.png",
+    "static/media/snowShowerS.png": "/static/media/snowShowerS.5a7f200cce735aa3e005.png",
+    "static/media/rainShowerV.png": "/static/media/rainShowerV.8981c83155dc41e77e69.png",
+    "static/media/rainM.png": "/static/media/rainM.67b99706adfa329ca4e0.png",
+    "static/media/snowS.png": "/static/media/snowS.9f3d4285e0de068d3f63.png",
+    "static/media/overC.png": "/static/media/overC.1e8ae37b7d24db719936.png",
+    "static/media/MC.png": "/static/media/MC.39a1ec598ac060756b18.png",
+    "static/media/frezRainL.png": "/static/media/frezRainL.5b9dd48fb17be2cb05d0.png",
+    "static/media/rainShowerM.png": "/static/media/rainShowerM.519cdc279e0b838c1dd4.png",
+    "static/media/rainS.png": "/static/media/rainS.9d4969859313be335761.png",
+    "static/media/freDrizDens.png": "/static/media/freDrizDens.d6932bb2d00a63ccdfb3.png",
+    "static/media/rainShowerS.png": "/static/media/rainShowerS.7245b31687d70fbe3a15.png",
+    "static/media/snowGrain.png": "/static/media/snowGrain.c47ea9fcb2c81b942eb5.png",
+    "static/media/drFog.png": "/static/media/drFog.08f91716695d30ab685c.png",
+    "static/media/ThunderS_heavyH.png": "/static/media/ThunderS_heavyH.20b1dc87ad618fe3ef8b.png",
+    "static/media/freDrizL.png": "/static/media/freDrizL.b0c4e4cb78285d25492c.png",
+    "static/media/PC.png": "/static/media/PC.6097b241593248d674d7.png",
+    "static/media/ThunderS_slightH.png": "/static/media/ThunderS_slightH.f5f4ca0abfc5be25603e.png",
+    "static/media/DrizDens.png": "/static/media/DrizDens.8db4e873cfd360f8fc3c.png",
+    "static/media/DrizM.png": "/static/media/DrizM.13a4e17490fc4d719240.png",
+    "static/media/DrizL.png": "/static/media/DrizL.f5439608b2bfda915481.png",
+    "static/media/fog.png": "/static/media/fog.17f3153a6fbedec891d2.png",
+    "static/media/ThunderS_SM.png": "/static/media/ThunderS_SM.41843d56a260c8408bae.png",
+    "index.html": "/index.html",
+    "main.b619e94b.css.map": "/static/css/main.b619e94b.css.map",
+    "main.b18cbd9a.js.map": "/static/js/main.b18cbd9a.js.map",
+    "787.024d2888.chunk.js.map": "/static/js/787.024d2888.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b619e94b.css",
+    "static/js/main.b18cbd9a.js"
+  ]
+}
