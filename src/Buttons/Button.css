@@ -26,18 +26,7 @@
     
 }
 
-.helsinkiButton{
 
-}
-
-.tampereButton{
-
-}
-
-.turkuButton{
-
-
-}
 
 
 .locationButtonContainer{
@@ -66,7 +55,7 @@
     text-align: center;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 750px) {
     .locationButton{
         height: 0px;
         display:none;
